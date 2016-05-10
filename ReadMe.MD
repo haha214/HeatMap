@@ -1,6 +1,6 @@
 #热力图可视化
 ##系统配置要求:
-- 操作系统: Windows XP SP3 或 Windows 7
+- 操作系统:  Windows 7以上
 - CPU: Intel Core2 双核 2.8GHZ或 AMD 双核 3.0GHZ 以上
 - 显卡：Nvidia Quadro 600 或 Tesla 2050以上 CUDA核心不低于128个，CUDA版本4.0以上，显存2G以上
 - 内存: 4G以上
