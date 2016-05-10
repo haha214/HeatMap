@@ -24,3 +24,4 @@
 ![](pic/1.gif) 
 ![](pic/2.gif) 
 ![](pic/3.gif) 
+<h1 align = "center">这是居中标题</h1>
